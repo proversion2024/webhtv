@@ -8,7 +8,6 @@ out/
 Release/
 *.apk
 *.aab
-*.aar
 *.jks
 *.keystore
 local.properties
@@ -19,6 +18,5 @@ yarn.lock
 nostr_副本*.html
 *_副本*.html
 *.tmp
-third_party/maven/
-third_party/sources/
 *.log
+third_party/sources/
